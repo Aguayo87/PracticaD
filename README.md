@@ -7,6 +7,6 @@ POST /oxxo/api/v1/w-nombre-microservicio
 ### Example Request
 ```json
 {
-	"nombre": "Juan"
+	"nombre": "Jesus"
 }
 ```
