@@ -1,4 +1,4 @@
-# w-nombre-microservicio
+# w-Directorio-microservicio
 
 ```http
 POST /oxxo/api/v1/w-nombre-microservicio
