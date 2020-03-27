@@ -1,0 +1,1 @@
+export const URL_CONEXION_BASE_DATOS_MONGO = 'mongodb://localhost:27017/Prueba';
